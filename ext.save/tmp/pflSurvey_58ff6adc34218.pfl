@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,SA,N,SA,N,N,SA,N,SA,,SD,D,A,SD,N,SD,A,A,A,A,N,SA,SD,A,SA,D,A,A,N,N,A,D,A,SA,A,SD,A,SD}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,pflVarGrp,pflGrpInt,,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,pflVarGrp,,,,,,,,,,,,,pflHM,pflFlex,,,pflInd,pflFlex,pflPac,,,,,,,,,pflGrpInt,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:22,pflP01LikeLeast01:11,pflP01LikeBest02:2,pflP01LikeLeast02:36}
+{part2SavedData}{,A,SA,D,SA,A,A,N,SA,A,SA,A,A,SA,D,A}
+{part2StratCodes}{,,pflAbs,,pflAbs,,,,pflExtcur, pflRLT,pflOrg,,pflLL,,,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:48,pflP02LikeLeast01:41,pflP02LikeBest02:42,pflP02LikeLeast02:52}
+{part3SavedData}{,SA,A,N,A,D,A,A,D,D,N,A,D,A,N,A,SA,N,N,N,A,A,SA,N,N,A}
+{part3StratCodes}{,pflCmplxThink,,,,,,,,,,,,,,,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,,,pflRfl,pflTrans,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:75,pflP03LikeLeast01:58,pflP03LikeBest02:54,pflP03LikeLeast02:61}
+{part4SavedData}{,A,D,A,N,N,A,N,SA,N,N,A,A,D,N,D,N,A,SA,SA,A,A,A,N}
+{part4StratCodes}{,,,,,,,,pflFB,,,,,,,,,,pflFB,flSeflProd,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:97,pflP04LikeLeast01:80,pflP04LikeBest02:88,pflP04LikeLeast02:93}
+{part0SavedData}{#pflName:Eishan Bhatia##pflDate:2003-09-16##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-true-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,building,business,change,chaos,comedy,communication,dreams,inventions,law,mythology,natural catastrophes,politics,sports,supernatural events,time,YC_1_whattolearn#(),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],analyze,argue,calculate,change,choose,classify,compare,conclude,construct,contrast,create,critique,debate,define,demonstrate,describe,design,determine,develop,diagram,discuss,disprove,dispute,distinguish,elaborate,estimate,explain,grade,group,hypothesize,illustrate,imagine,improve,invent,paint,plan,predict,prepare,produce,propose,rate,recommend,revise,rewrite,summarize,survey,YC_1_waystolearn#()[END:waystolearn][START:showlearn],brochure,business plan,campaign,cartoon,chart,collage,comic strip,drawing,equation,essay,experiment,film or filmstrip,game,group presentation,guide,handbook,illusion,illustrated story,illustration,instructions,internet search,interview,invention,joke,journal,lecture,lesson,limerick,log,logic puzzle,logo,machine,magazine,magazine article,map,model,monologue,montage,motto,multimedia presentation,mural,museum,narrative,news report,newspaper,newspaper article,novel,oral report,outline,painting,pamphlet,pattern,photo album,photo essay,picture story,pie chart,plan,poem,political cartoon,pop-up book,position paper,poster,prediction,presentation,puzzle,questionnaire,report,research report,review,scenario,sculpture,seminar,short story,sketch,survey,tape-recording,TV show,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

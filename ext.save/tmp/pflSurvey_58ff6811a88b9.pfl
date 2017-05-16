@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,A,N,A,N,D,A,A,SA,A,D,N,SA,N,SA,N,N,N,A,SA,A,SA,N,D,SA,N,A,SA,SA,SA,A,A,SA,N,SA,SD,A,SD}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,,,,,,pflVarGrp,,,,pflAcc,pflRfl,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,,,,,pflFlex,,pflHM,pflFlex,,,pflInd,pflFlex,pflPac,,,pflLC,pflInd,pflFlex,pflOpn,pflOpn,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflHM,,,pflGrpInt,,pflGrpInt,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:35,pflP01LikeLeast01:38,pflP01LikeBest02:20,pflP01LikeLeast02:36}
+{part2SavedData}{,SA,A,N,SA,SA,A,SA,N,SA,N,A,SA,SA,N,D}
+{part2StratCodes}{,pflAbs,,,pflAbs,pflAbs,pflCmplxCont,pflCmplxThink,,pflCmplxCont,pflCmplxThink,pflOrg,,pflExt,pflRLT,pflSelfSel,pflCmplxThink,pflCmplxEnv,pflFlex,pflLC,pflInqBas,,,pflCmplxCont,pflCmplxThink,pflCmplxEnv,pflRLT,pflExt,pflInqBas,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:50,pflP02LikeLeast01:53,pflP02LikeBest02:51,pflP02LikeLeast02:48}
+{part3SavedData}{,A,SA,SA,A,N,A,SA,N,N,SA,SA,N,N,N,SA,A,A,D,D,A,A,SA,A,SA,SA}
+{part3StratCodes}{,,pflCmplxThink,pflCmplxCont,pflCmplxThink,pflAbsCont,,,,pflIndvPur,pflInqBas,pflCmplxThink,pflInd,pflCmplxEnv,,,pflInqBas,pflOE,pflOE,pflCmplxThink,,,,pflPac,,,,,,,pflRfl,pflTrans,,pflSelfProc,pflInd,pflFlex,pflLC,pflVarProc,pflCmplxEnv,pflFlex}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:63,pflP03LikeLeast01:67,pflP03LikeBest02:64,pflP03LikeLeast02:72}
+{part4SavedData}{,D,SA,N,N,N,A,N,SA,D,N,A,N,N,D,N,D,SA,D,SA,SA,N,N,A}
+{part4StratCodes}{,,pflAA,pflCmplxEnv,pflOpn,pflHM,,,,,,pflFB,,,,,,,,,pflFB,,flSeflProd,flSeflProd,pflFlex,pflInd,pflLC,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:80,pflP04LikeLeast01:92,pflP04LikeBest02:95,pflP04LikeLeast02:87}
+{part0SavedData}{#pflName:Rick Datta##pflDate:2004-01-06##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-true-Reading)(cbpflIntroWrite-true-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-true-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,architecture,astronomy,building,cars,chaos,comedy,communication,ecology,endangered species,environment,ethics,exploration,geography,history,inventions,inventors,law,literature,money,mythology,natural catastrophes,peace,philosophy,power,psychology,science fiction,sports,technology,war,YC_1_whattolearn#(),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],classify,create,deconstruct,describe,design,determine,differentiate,distinguish,explain,hypothesize,improve,interpret,invent,investigate,judge,justify,modify,outline,predict,propose,relate,simplify,strengthen,survey,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,advertisement,banner,blueprint,book,business plan,campaign,commentary,commercial,computer graphic,conference presentation,debate,dialogue,documentary,editorial,event,experiment,film or filmstrip,game,game show,graphic,handbook,instructions,interview,invention,lesson,metaphor,model,newspaper,short story,survey,theory,TV show,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

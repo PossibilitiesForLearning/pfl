@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,A,D,SA,A,D,SA,A,A,A,D,A,SA,SA,N,D,D,A,A,SA,A,SA,N,D,A,SA,SA,SA,SA,SA,D,SA,SA,A,SA,D,A,SD}
+{part1StratCodes}{,,,,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,,,,,pflAcc,pflRfl,pflAcc,pflInd,,,,,,pflFlex,,pflHM,pflFlex,,,,pflInd,pflLC,pflLC,pflInd,pflFlex,pflPac,pflIndvPur,pflExtcur,pflRLT,pflLC,pflInd,pflFlex,pflOpn,pflOpn,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflHM,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,pflGrpInt,,pflGrpInt,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:27,pflP01LikeLeast01:38,pflP01LikeBest02:32,pflP01LikeLeast02:36}
+{part2SavedData}{,SD,A,A,A,A,SA,SA,A,SA,SA,D,A,SA,D,SA}
+{part2StratCodes}{,,,,,,pflCmplxCont,pflCmplxThink,pflOrg,pflCmplxCont,pflCmplxThink,pflOrg,,pflExt,pflRLT,pflSelfSel,pflCmplxThink,pflCmplxEnv,pflFlex,pflLC,pflInqBas,pflLL,,,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,pflInd}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:53,pflP02LikeLeast01:39,pflP02LikeBest02:51,pflP02LikeLeast02:49}
+{part3SavedData}{,SA,A,A,SA,A,N,D,A,SA,SA,A,SA,SD,SD,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA}
+{part3StratCodes}{,pflCmplxThink,,,pflCmplxThink,pflVarPr,pflInd,pflVarProc,,,,,pflInqBas,pflOpn,pflCmplxThink,pflCmplxEnv,pflEM,pflInqBas,pflOE,,pflPac,,,pflPac,pflIndvPur,pflPac,pflInd,pflCmplxEnv,pflPac,pflInd,pflPac,pflPac,pflRfl,pflGrpInt,pflRfl,pflGrpInt,pflRfl,pflTrans,pflRfl,pflPac,pflSelfProc,pflInd,pflFlex,pflLC,pflVarProc,pflCmplxEnv,pflFlex}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:63,pflP03LikeLeast01:66,pflP03LikeBest02:69,pflP03LikeLeast02:67}
+{part4SavedData}{,SD,SA,SA,SD,A,A,SA,SA,D,SD,SA,SA,SA,SA,SD,D,SA,SA,N,N,A,A,N}
+{part4StratCodes}{,,pflAA,pflCmplxEnv,pflOpn,pflHM,pflAA,pflOpn,pflHM,pflGrpInt,,,,pflAA,pflSelfProd,pflInd,pflFB,,,pflFB,pflInd,pflFB,pflOpn,pflFB,pflEM,pflFB,pflEM,,,pflFB,pflFB,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:89,pflP04LikeLeast01:82,pflP04LikeBest02:96,pflP04LikeLeast02:88}
+{part0SavedData}{#pflName:Katelyn##pflDate:2004-02-18##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-true-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,art,astronomy,beauty,brains,change,chemistry,comedy,communication,crafts,design,dinosaurs,drama and acting,dreams,ecology,endangered species,environment,exploration,freedom,human body,inventions,inventors,love,medicine,music,mythology,natural catastrophes,oceans,patterns,philosophy,physics,poetry,psychology,sculpture,sources of energy,space travel and technology,systems,technology,the future,the universe,theater and acting,time,travel,UFOs,YC_1_whattolearn#(neurology, marine biology, zoology,),YC_2_whattolearn#(What should I be when I grow up?)[END:whattolearn][START:waystolearn],analyze,argue,arrange,calculate,change,choose,collect,compare,compose,construct,contrast,create,critique,debate,decide,deconstruct,demonstrate,describe,design,determine,develop,diagram,differentiate,discuss,dissect,distinguish,elaborate,estimate,evaluate,explain,form,hypothesize,imagine,improve,invent,investigate,judge,modify,predict,produce,rank,recommend,relate,role-play,separate,simplify,solve,summarize,survey,track,verify,YC_1_waystolearn#(hands on,)[END:waystolearn][START:showlearn],advertisement,amusement park ride,app,autobiography,banner,bibliography,blog,book,book review,broadcast,brochure,business plan,cartoon,carving,celebration,collage,comic strip,commercial,conference presentation,critical analysis,debate,demonstration,diagram,diary,documentary,drawing,essay,evaluation checklist,experiment,fact file,film or filmstrip,game,game show,graphic,graphic organizer,group presentation,guide,illustrated story,illustration,instructions,internet search,invention,investigation,journal,learning center,lesson,limerick,model,multimedia presentation,museum,music,novel,painting,photo album,photo essay,picture story,play,poem,political cartoon,pop-up book,poster,presentation,program,puppet,puppet show,puzzle,questionnaire,rap,recipe,research report,role play,scenario,scrapbook,script,sculpture,self-portrait,short story,sketch,skit,song,story,survey,textbook,Venn diagram,video game,webpage,website,wiki,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

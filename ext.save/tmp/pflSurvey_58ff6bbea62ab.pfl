@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,N,N,A,SD,N,A,SD,A,N,D,A,A,D,N,D,A,A,N,A,A,D,N,SA,A,A,N,A,SA,A,N,SA,A,A,A,D,N,D}
+{part1StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,,pflInd,pflVarGrp,pflIndvPur,,,,,pflOpn,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:24,pflP01LikeLeast01:16,pflP01LikeBest02:12,pflP01LikeLeast02:8}
+{part2SavedData}{,SA,D,A,N,SA,SA,SA,N,A,SA,N,A,SA,N,N}
+{part2StratCodes}{,pflAbs,,,,pflAbs,pflCmplxCont,pflCmplxThink,pflCmplxCont,pflCmplxThink,pflOrg,pflCmplxCont,pflCmplxThink,pflOrg,,,pflLL,,,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:45,pflP02LikeLeast01:52,pflP02LikeBest02:48,pflP02LikeLeast02:49}
+{part3SavedData}{,A,A,SA,A,A,A,SA,N,N,D,N,A,N,A,A,SA,N,SD,A,A,N,A,A,A,N}
+{part3StratCodes}{,,,pflCmplxThink,pflAbsCont,,,,pflIndvPur,pflInqBas,pflCmplxThink,pflInd,pflCmplxEnv,,,,,,,,,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:69,pflP03LikeLeast01:71,pflP03LikeBest02:60,pflP03LikeLeast02:63}
+{part4SavedData}{,A,A,A,N,A,A,D,N,SD,N,N,D,N,A,A,D,D,D,SA,A,A,N,A}
+{part4StratCodes}{,,,,,,,,,,,,,,,,,,,flSeflProd,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:97,pflP04LikeLeast01:87,pflP04LikeBest02:79,pflP04LikeLeast02:90}
+{part0SavedData}{#pflName:Raya##pflDate:2017-04-25##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-true-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,art,astronomy,beauty,chaos,cultures,dinosaurs,dreams,endangered species,environment,ethics,geography,ghosts,human body,justice,law,literature,love,medicine,music,mythology,oceans,peace,philosophy,poetry,psychology,religion,science fiction,supernatural events,the universe,TV,UFOs,values,YC_1_whattolearn#(),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],analyze,argue,combine,compile,create,debate,demonstrate,describe,explain,form,illustrate,imagine,interpret,investigate,judge,justify,paint,prioritize,produce,rewrite,YC_1_waystolearn#()[END:waystolearn][START:showlearn],amusement park ride,article for magazine,autobiography,biography,book,book review,campaign,carving,chapter,collage,commentary,critical analysis,debate,dialogue,diary,documentary,drawing,essay,exhibit,fact file,fairy tale,film or filmstrip,game show,greeting card,illusion,illustrated story,illustration,joke,journal,lecture,magazine,metaphor,monologue,motto,music,mystery,narrative,newsletter,novel,oral report,panel discussion,performance,photo album,picture story,poem,poster,presentation,puzzle,questionnaire,radio show,report,research report,science fiction story,short story,sign,sketch,speech,story,TV show,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

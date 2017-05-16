@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,A,N,A,D,N,SA,D,SA,A,D,A,A,D,SA,A,N,A,A,SA,SA,A,A,SA,A,N,SA,SA,A,N,SA,A,A,D,A,A,A,A}
+{part1StratCodes}{,,,,,,,pflVarGrp,pflGrpInt,,pflVarGrp,,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,,,,,pflFlex,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflHM,pflFlex,pflOpn,,,pflInd,pflVarGrp,pflIndvPur,,,pflLC,pflInd,pflFlex,pflPac,pflIndvPur,pflExtcur,pflRLT,pflLC,pflInd,pflFlex,pflOpn,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflHM,pflInd,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:20,pflP01LikeLeast01:14,pflP01LikeBest02:24,pflP01LikeLeast02:34}
+{part2SavedData}{,SA,A,SA,A,A,SA,A,A,SA,A,SA,A,A,A,A}
+{part2StratCodes}{,pflAbs,,pflAbs,,,pflCmplxCont,pflCmplxThink,pflOrg,,,pflExt,pflRLT,pflSelfSel,pflCmplxThink,pflCmplxEnv,pflFlex,pflLC,pflInqBas,,pflLL,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:41,pflP02LikeLeast01:46,pflP02LikeBest02:44,pflP02LikeLeast02:49}
+{part3SavedData}{,A,N,A,A,A,SA,A,N,N,SA,SA,N,A,SA,SA,SA,N,D,D,A,N,SA,A,SA,A}
+{part3StratCodes}{,,,,,,pflEM,,,,pflInqBas,pflOE,pflOE,pflCmplxThink,,,pflPac,pflPac,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,,,pflRfl,pflTrans,,pflSelfProc,pflInd,pflFlex,pflLC,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:68,pflP03LikeLeast01:72,pflP03LikeBest02:63,pflP03LikeLeast02:71}
+{part4SavedData}{,A,N,A,N,N,SA,SA,SA,A,SA,N,N,N,A,A,A,SA,A,SA,SA,A,SA,A}
+{part4StratCodes}{,,,,,,pflAA,pflAA,pflSelfProd,pflInd,pflFB,,pflFB,pflInd,,,,,,,pflFB,,flSeflProd,flSeflProd,pflFlex,pflInd,pflLC,,pflTrans,pflCmplxThink,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:100,pflP04LikeLeast01:90,pflP04LikeBest02:97,pflP04LikeLeast02:92}
+{part0SavedData}{#pflName:Marah Rubak##pflDate:2003-08-16##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-true)##inptPFLSubjFavOther:Drama#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,art,comedy,courage,crafts,cultures,drama and acting,endangered species,ethics,fractals,insects,literature,medicine,music,mythology,oceans,poetry,religion,science fiction,sculpture,space travel and technology,theater and acting,time,YC_1_whattolearn#(Confidence, food and cooking, archery ),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],assess,award,blend,change,choose,combine,compare,compose,construct,contrast,create,demonstrate,differentiate,dissect,distinguish,evaluate,hypothesize,illustrate,imagine,improve,interpret,invent,modify,organize,paint,predict,rank,recite,recommend,role-play,simplify,sort,strengthen,survey,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,app,banner,book,broadcast,brochure,cartoon,carving,celebration,collage,comic strip,commentary,commercial,computer program,dance,demonstration,drawing,experiment,fabric,fairy tale,film or filmstrip,flag,floor plan,game,game show,geometric model,greeting card,handbook,illusion,illustrated story,illustration,instructions,invention,jewelry,jingle,joke,journal,letter,limerick,log,logo,machine,menu,mobile,model,montage,monument,multimedia presentation,mural,music,narrative,painting,party,performance,photo album,picture story,play,poem,pop-up book,poster,presentation,puppet,quilt,rebus story,recipe,reenactment,role play,scenario,science fiction story,scrapbook,script,sculpture,short story,sign,simulation,sketch,skit,slide show,song,story,time capsule,timeline,Venn diagram,video game,weaving,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

@@ -1,0 +1,68 @@
+<html>
+
+	<head>
+		<title>PFL - Save Diff Guide Selections</title>
+	
+	</head>
+	<body >	
+ <script> 
+ //var interval = window.setInterval(function() {document.forms["delTmpFile"].submit();}, 30000);
+</script> 
+
+
+<div style="position:relative; left:50px;top:50px;font-size:14pt;">
+	<!--form name="delTmpFile" method="post" action="./delDiffGuide.php"-->
+ 
+	The selections that you have made in the Differention Guide have been saved.<br>
+	<br>
+	Due to security reasons, this file will be <b>deleted by <?php echo date("d-m-Y H:i:s", time()+3600); ?></b><br>
+	<br><br>
+	Instructions to save your file:
+<table>
+	<tr><th>PC</th><th>Mac</th></tr>
+	<tr>
+	<td>	
+		<ol>
+			<li>right click on the download link below</li>
+			<li>select "save link as"</li>
+			<li>save the file to a safe place on your local computer</li>
+			<li>due to security reasons, this link will no longer be available once you close this window</li>
+		</ol>	
+	</td>
+	<td>
+		<ol>
+			<li>slect the ctrl button and click on the download link below</li>
+			<li>select "save link as"</li>
+			<li>save the file to a safe place on your local computer</li>
+			<li>due to security reasons, this link will no longer be available once you close this window</li>
+		</ol>	
+
+	</td>
+</tr>
+</table>
+ 
+ 
+<?php 
+ $selDiffValues=$_POST["saveSelBehav"];
+ $curDemogs=$_POST["saveDemog"];
+ 
+$tmpfname="./tmp/".uniqid('diffGuide_').".pfl";
+
+ $handle = fopen($tmpfname, "w");
+ //echo $handle;
+ fwrite($handle,"[pflDG_start]\n");
+ fwrite($handle,  $selDiffValues);
+ fwrite($handle,  "\n".$curDemogs);
+ fwrite($handle,"\n[pflDG_end]");
+ fclose($handle);
+
+ echo '<a href="'.$tmpfname.'" target="_blank"><b>Download</b></a>';
+// echo '<input type="hidden" id="pflFileToDel" name="pflFileToDel" value="'.$tmpfname.'">';
+
+ ?>
+  
+ 	<!--/form-->
+</div> 	
+
+ </body>
+</html>

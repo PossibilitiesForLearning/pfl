@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,A,N,N,N,N,N,N,SA,N,D,N,N,SD,A,N,N,N,N,SA,,D,N,N,A,N,A,N,N,N,N,A,A,A,N,D,N,D}
+{part1StratCodes}{,,,,,,,,,pflVarGrp,,,,,,,,,,,pflFlex,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:20,pflP01LikeLeast01:36,pflP01LikeBest02:25,pflP01LikeLeast02:38}
+{part2SavedData}{,N,N,N,N,N,N,N,D,A,A,N,A,A,D,N}
+{part2StratCodes}{,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:50,pflP02LikeLeast01:46,pflP02LikeBest02:47,pflP02LikeLeast02:52}
+{part3SavedData}{,SA,A,N,A,N,N,N,D,N,A,A,,N,D,A,N,N,N,N,SA,A,A,N,A,N}
+{part3StratCodes}{,pflCmplxThink,,,,,,,,,,,,,,,,,,,pflRfl,pflGrpInt,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:54,pflP03LikeLeast01:61,pflP03LikeBest02:77,pflP03LikeLeast02:67}
+{part4SavedData}{,N,N,N,N,D,SD,N,A,A,N,N,SD,D,N,D,D,SA,SA,A,A,N,N,A}
+{part4StratCodes}{,,,,,,,,,,,,,,,,,pflFB,pflFB,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:96,pflP04LikeLeast01:84,pflP04LikeBest02:95,pflP04LikeLeast02:90}
+{part0SavedData}{#pflName:Ola##pflDate:2017-04-25##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-true-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,dinosaurs,endangered species,inventions,justice,mythology,oceans,psychology,supernatural events,technology,YC_1_whattolearn#(Computer programming ),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],analyze,argue,compare,diagram,evaluate,explain,rank,revise,simplify,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,computer graphic,debate,diagram,documentary,game,graph,guide,instructions,investigation,joke,lesson,model,montage,pie chart,presentation,seminar,tape-recording,timeline,Venn diagram,YC_1_showlearn#(Animation.)[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,N,N,A,D,N,A,D,SA,N,SD,A,N,N,SA,D,A,A,N,SA,A,A,N,N,A,A,SA,A,A,A,N,SA,SA,SA,A,SD,N,SD}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,,,,,,pflVarGrp,,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,,,,,pflFlex,,,,,,,pflLC,pflInd,pflFlex,pflPac,pflIndvPur,pflExtcur,pflRLT,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,pflGrpInt,pflGrpInt,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:20,pflP01LikeLeast01:36,pflP01LikeBest02:27,pflP01LikeLeast02:16}
+{part2SavedData}{,N,A,SD,SA,A,SA,A,A,SA,N,N,A,SA,N,SA}
+{part2StratCodes}{,,,,pflAbs,,pflCmplxCont,pflCmplxThink,pflOrg,,,pflExt,pflRLT,pflSelfSel,pflCmplxThink,pflCmplxEnv,pflFlex,pflLC,pflInqBas,,,,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,pflInd}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:53,pflP02LikeLeast01:39,pflP02LikeBest02:44,pflP02LikeLeast02:41}
+{part3SavedData}{,A,SA,A,A,A,D,A,D,A,A,A,D,A,D,A,SA,D,N,SD,A,A,A,A,SA,A}
+{part3StratCodes}{,,pflCmplxThink,pflCmplxCont,,,,,,,,,,,,,,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,,,,,pflSelfProc,pflInd,pflFlex,pflLC,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:58,pflP03LikeLeast01:72,pflP03LikeBest02:77,pflP03LikeLeast02:65}
+{part4SavedData}{,N,A,A,N,A,A,A,A,A,N,A,A,A,SA,A,N,A,SA,A,SA,SA,A,A}
+{part4StratCodes}{,,,,,,,,,,,,,,pflFB,pflEM,,,,pflFB,,flSeflProd,pflFlex,pflInd,pflLC,flSeflProd,pflFlex,pflLC,pflInd,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:80,pflP04LikeLeast01:88,pflP04LikeBest02:96,pflP04LikeLeast02:94}
+{part0SavedData}{#pflName:Martin##pflDate:2017-04-25##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-true-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-true-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,brains,business,calculus,chemistry,endangered species,engineering,human body,insects,inventions,medicine,mythology,physics,psychology,robotics,sculpture,space travel and technology,supernatural events,technology,time,UFOs,YC_1_whattolearn#(Modeling,  game making, ),YC_2_whattolearn#(What makes a 22 caliber bullet have that wizzing noise when shot.)[END:whattolearn][START:waystolearn],adapt,calculate,change,compose,conclude,create,critique,disprove,dispute,imagine,invent,modify,predict,produce,solve,test,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,amusement park ride,app,business plan,computer graphic,computer program,conference presentation,game,geometric model,group presentation,invention,logic puzzle,model,poster,presentation,research report,simulation,theory,video game,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

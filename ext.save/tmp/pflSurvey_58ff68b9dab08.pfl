@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,A,D,A,D,D,A,D,A,A,D,A,A,A,A,D,A,A,A,A,A,SA,N,SA,A,A,D,A,D,D,D,A,A,D,A,D,A,D}
+{part1StratCodes}{,,,,,,,,,,,,,,,,,,,,,,pflHM,pflFlex,,pflInd,pflVarGrp,pflIndvPur,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:16,pflP01LikeLeast01:31,pflP01LikeBest02:3,pflP01LikeLeast02:12}
+{part2SavedData}{,D,D,A,A,A,A,A,D,A,D,A,D,A,A,A}
+{part2StratCodes}{,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:47,pflP02LikeLeast01:50,pflP02LikeBest02:39,pflP02LikeLeast02:52}
+{part3SavedData}{,A,A,D,A,D,D,D,D,D,A,D,A,D,D,A,A,D,D,D,D,A,D,A,A,A}
+{part3StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:59,pflP03LikeLeast01:66,pflP03LikeBest02:67,pflP03LikeLeast02:70}
+{part4SavedData}{,D,D,D,D,D,D,D,A,D,A,A,D,D,D,D,A,A,A,A,A,A,D,A}
+{part4StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:81,pflP04LikeLeast01:94,pflP04LikeBest02:89,pflP04LikeLeast02:93}
+{part0SavedData}{#pflName:Carter##pflDate:2003-07-25##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-true)##inptPFLSubjFavOther:Gym#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],architecture,art,astronomy,brains,business,cars,chemistry,comedy,cultures,design,dinosaurs,engineering,history,human body,inventions,inventors,music,mythology,philosophy,psychology,sculpture,space travel and technology,sports,supernatural events,technology,the universe,time,travel,war,YC_1_whattolearn#(),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],adapt,analyze,argue,collect,compare,construct,contrast,create,debate,describe,design,diagram,discuss,dissect,group,illustrate,organize,paint,prioritize,produce,sort,survey,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,advertisement,app,banner,cartoon,carving,collage,comic strip,commercial,computer graphic,debate,diagram,documentary,drawing,evaluation checklist,experiment,game,game show,graph,graphic,illustrated story,illustration,instructions,invention,investigation,logic puzzle,logo,machine,map,model,mural,news report,novel,painting,photo album,pop-up book,portfolio,poster,presentation,scrapbook,self-portrait,sketch,tape-recording,TV show,video game,website,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{}
+{part1StratCodes}{}
+{pflSurveyLikesDislikesPart1}{}
+{part2SavedData}{}
+{part2StratCodes}{}
+{pflSurveyLikesDislikesPart2}{}
+{part3SavedData}{}
+{part3StratCodes}{}
+{pflSurveyLikesDislikesPart3}{}
+{part4SavedData}{}
+{part4StratCodes}{}
+{pflSurveyLikesDislikesPart4}{}
+{part0SavedData}{#pflName:Colleen Chwiecko##pflDate:2017-04-25##pflAge:22##pflGrade:2##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-true-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{0}
+{p1stat}{0}
+{p2stat}{0}
+{p3stat}{0}
+{p4stat}{0}
+{p5stat}{0}
+{lastViewedPart}{}
+[pflSurvey_end]

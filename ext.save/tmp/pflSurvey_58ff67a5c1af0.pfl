@@ -1,0 +1,27 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,N,N,N,N,N,N,N,SA,SD,SD,A,A,D,SD,D,A,SD,N,SA,D,A,SD,N,A,SA,N,N,D,SD,SD,SA,D,D,N,N,A,N}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,,,,,,pflVarGrp,,,,,,,,,,,pflFlex,,,,,,pflInd,pflLC,,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:1,pflP01LikeLeast01:30,pflP01LikeBest02:20,pflP01LikeLeast02:31}
+{part2SavedData}{,SD,SD,SD,SD,SA,SD,SD,SD,SD,SD,SD,SD,A,SD,SD}
+{part2StratCodes}{,,,,,pflAbs,pflCmplxCont,pflCmplxThink,,,,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:51,pflP02LikeLeast01:53,pflP02LikeBest02:43,pflP02LikeLeast02:50}
+{part3SavedData}{,SD,SD,SA,SA,SD,SD,SA,A,SD,SD,A,A,A,A,SD,SD,SD,SD,SD,SD,SD,SD,SD,SD,SD}
+{part3StratCodes}{,,,pflCmplxThink,pflAbsCont,pflCmplxThink,pflVarPr,pflInd,pflVarProc,,,pflIndvPur,pflInqBas,pflCmplxThink,pflInd,pflCmplxEnv,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:56,pflP03LikeLeast01:70,pflP03LikeBest02:57,pflP03LikeLeast02:78}
+{part4SavedData}{,SD,SD,SD,SD,SD,A,A,SA,SD,SA,SD,SD,SD,SD,SA,SA,SD,A,SD,A,SD,SD,SD}
+{part4StratCodes}{,,,,,,,,pflFB,,pflFB,pflInd,,,,,pflFB,pflSeflProd,pflFlex,pflLC,pflFB,pflCmplxEnv,pflFlex,pflOpn,pflLC,,,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:93,pflP04LikeLeast01:100,pflP04LikeBest02:94,pflP04LikeLeast02:101}
+{part0SavedData}{#pflName:Joel##pflDate:2017-05-25##pflAge:14##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-true)##inptPFLSubjFavOther:Computers#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,architecture,comedy,design,inventions,law,money,physics,power,technology,TV,YC_1_whattolearn#(Computers),YC_2_whattolearn#(.)[END:whattolearn][START:waystolearn],compose,create,decide,defend,demonstrate,describe,design,develop,explain,invent,judge,justify,YC_1_waystolearn#(Computers)[END:waystolearn][START:showlearn],3-D model,app,film or filmstrip,game,invention,joke,play,video game,website,YC_1_showlearn#(.
+)[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

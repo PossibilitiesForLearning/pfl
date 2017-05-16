@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,D,D,D,D,D,D,D,D,D,D,A,D,D,D,D,,,,,,,,,,,,,,,,,,,,,,,}
+{part1StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:38,pflP01LikeLeast01:34,pflP01LikeBest02:37,pflP01LikeLeast02:36}
+{part2SavedData}{,,,,,,,,,,,,,,,}
+{part2StratCodes}{,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:39,pflP02LikeLeast01:41,pflP02LikeBest02:40,pflP02LikeLeast02:42}
+{part3SavedData}{,,,,,,,,,,,,,,,,,,,,,,,,,}
+{part3StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:77,pflP03LikeLeast01:75,pflP03LikeBest02:78,pflP03LikeLeast02:74}
+{part4SavedData}{,,,,,,,,,,,,,,,,,,,,,,,}
+{part4StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:101,pflP04LikeLeast01:99,pflP04LikeBest02:100,pflP04LikeLeast02:98}
+{part0SavedData}{#pflName:Denise Ross##pflDate:2017-03-14##pflAge:14##pflGrade:9##FavSubj:(cbpflIntroMath-true-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-true-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],art,communication,YC_1_whattolearn#(),YC_2_whattolearn#()[END:whattolearn][START:showlearn],advertisement,book,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,A,D,SA,N,D,SA,N,SA,A,A,N,N,N,N,N,A,N,N,A,SA,SA,N,D,N,N,A,A,A,A,N,A,A,A,A,SD,N,SD}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,pflVarGrp,,,,,,,,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflHM,pflFlex,pflOpn,pflHM,pflFlex,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:4,pflP01LikeLeast01:37,pflP01LikeBest02:35,pflP01LikeLeast02:38}
+{part2SavedData}{,A,A,N,A,A,A,A,N,A,D,N,N,N,A,A}
+{part2StratCodes}{,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:42,pflP02LikeLeast01:46,pflP02LikeBest02:53,pflP02LikeLeast02:48}
+{part3SavedData}{,A,A,A,A,N,N,D,N,N,A,A,D,A,N,N,A,N,D,N,N,A,N,A,N,N}
+{part3StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:56,pflP03LikeLeast01:65,pflP03LikeBest02:69,pflP03LikeLeast02:71}
+{part4SavedData}{,N,A,N,N,N,A,A,SD,D,A,A,D,N,N,D,D,A,D,A,A,A,N,N}
+{part4StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:95,pflP04LikeLeast01:86,pflP04LikeBest02:97,pflP04LikeLeast02:87}
+{part0SavedData}{#pflName:Sohail##pflDate:2003-07-22##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-true-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,architecture,cars,design,dinosaurs,ecology,endangered species,geography,ghosts,inventions,oceans,sources of energy,sports,war,YC_1_whattolearn#(Marine Biology),YC_2_whattolearn#(Marine Biology)[END:whattolearn][START:waystolearn],adapt,analyze,assess,compare,define,describe,form,plan,prepare,solve,test,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,biography,display,documentary,graph,model,survey,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

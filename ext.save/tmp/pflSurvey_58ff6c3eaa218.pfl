@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,A,D,A,A,N,N,N,SA,N,N,SA,A,D,A,SD,N,N,A,SA,A,A,N,N,A,A,N,N,A,SD,A,A,D,D,A,SD,,SD}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,,,,,,pflVarGrp,,,pflAcc,,,,,,,,pflFlex,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:1,pflP01LikeLeast01:36,pflP01LikeBest02:9,pflP01LikeLeast02:38}
+{part2SavedData}{,A,D,N,A,A,A,SA,SA,SA,D,D,D,A,N,SD}
+{part2StratCodes}{,,,,,,,pflCmplxCont,pflCmplxThink,pflOrg,pflExtcur, pflRLT,pflOrg,pflExt,pflRLT,pflSelfSel,pflCmplxThink,pflCmplxEnv,pflFlex,pflLC,pflInqBas,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:45,pflP02LikeLeast01:49,pflP02LikeBest02:47,pflP02LikeLeast02:53}
+{part3SavedData}{,A,D,N,D,SA,A,A,N,A,SA,SD,SA,,A,N,A,A,SD,D,A,D,A,N,A,N}
+{part3StratCodes}{,,,,,pflEM,pflCmplxThink,pflCmplxEnv,,,,,pflInqBas,pflOE,,pflPac,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:63,pflP03LikeLeast01:64,pflP03LikeBest02:65,pflP03LikeLeast02:72}
+{part4SavedData}{,D,A,SD,A,A,A,SA,A,SD,D,SA,D,N,SD,D,D,D,A,SA,A,N,D,N}
+{part4StratCodes}{,,,,,,,pflAA,pflSelfProd,pflInd,,,,pflFB,pflInd,,,,,,,,flSeflProd,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:89,pflP04LikeLeast01:87,pflP04LikeBest02:97,pflP04LikeLeast02:92}
+{part0SavedData}{#pflName:Adam Mason-Robertson##pflDate:2017-04-25##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-true)##inptPFLSubjFavOther:PE#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,architecture,art,astronomy,building,cars,chaos,chaos theory,chemistry,comedy,conflict,design,dinosaurs,endangered species,exploration,foreign languages,geology,ghosts,insects,inventions,mythology,natural catastrophes,power,robotics,science fiction,sculpture,space travel and technology,sports,technology,the future,the universe,TV,UFOs,war,YC_1_whattolearn#(?),YC_2_whattolearn#(Why are we doing this survey?)[END:whattolearn][START:waystolearn],combine,construct,create,deconstruct,design,diagram,dissect,improve,invent,mediate,modify,paint,produce,role-play,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,amusement park ride,app,blueprint,cartoon,carving,chapter,comic strip,computer graphic,drawing,fairy tale,film or filmstrip,game,graphic,illustrated story,illustration,internet search,invention,joke,machine,matrix,model,motto,museum,mystery,party,pop-up book,portfolio,quilt,role play,science fiction story,sketch,time capsule,TV show,weaving,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

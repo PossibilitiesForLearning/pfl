@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,A,D,A,N,D,A,N,SA,A,A,N,N,N,D,SD,D,D,A,N,N,A,N,D,A,A,A,N,N,N,D,A,A,D,A,D,N,D}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,,,,,,pflVarGrp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:35,pflP01LikeLeast01:36,pflP01LikeBest02:9,pflP01LikeLeast02:24}
+{part2SavedData}{,N,N,D,D,A,N,N,A,D,A,SD,D,SA,N,D}
+{part2StratCodes}{,,,,,,,,,,,,,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:51,pflP02LikeLeast01:49,pflP02LikeBest02:43,pflP02LikeLeast02:53}
+{part3SavedData}{,D,SD,D,A,D,D,A,SD,D,N,A,A,D,A,N,SA,N,D,N,A,A,N,A,A,A}
+{part3StratCodes}{,,,,,,,,,,,,,,,,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:69,pflP03LikeLeast01:61,pflP03LikeBest02:65,pflP03LikeLeast02:56}
+{part4SavedData}{,D,N,D,N,D,N,A,SA,SD,SA,N,D,N,N,SA,A,A,A,A,A,N,D,N}
+{part4StratCodes}{,,,,,,,,pflFB,,pflFB,pflInd,,,,,pflFB,pflSeflProd,pflFlex,pflLC,,,,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:86,pflP04LikeLeast01:100,pflP04LikeBest02:88,pflP04LikeLeast02:87}
+{part0SavedData}{#pflName:Bobby ##pflDate:2017/4/25##pflAge:14##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-true)##inptPFLSubjFavOther:Computers#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],architecture,cars,engineering,technology,TV,YC_1_whattolearn#(Food, Computers, Gaming),YC_2_whattolearn#(I dont)[END:whattolearn][START:waystolearn],choose,compose,create,defend,describe,design,explain,justify,YC_1_waystolearn#(Games, Computers, Model)[END:waystolearn][START:showlearn],3-D model,game,graphic organizer,invention,matrix,model,portfolio,research report,timeline,Venn diagram,video game,YC_1_showlearn#(Video Games, 3-D Model)[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

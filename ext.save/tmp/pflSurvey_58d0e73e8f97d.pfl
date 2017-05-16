@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,SD,SD,A,N,N,A,D,SA,N,SD,A,SA,SA,SA,SD,SA,A,N,A,SA,SA,N,SA,N,A,SA,A,A,SA,N,SA,D,D,N,SA,A,A}
+{part1StratCodes}{,,,,,,,,,pflVarGrp,,,,pflAcc,pflRfl,pflAcc,pflInd,pflCmplxEnv,pflCmplxCont,pflCmplxThink,,pflFlex,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflHM,pflFlex,pflOpn,pflHM,pflFlex,,pflInd,pflVarGrp,pflIndvPur,,,pflLC,pflInd,pflFlex,pflPac,pflIndvPur,pflExtcur,pflRLT,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflHM,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,,,,pflVarGrp,pflGrpInt,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:24,pflP01LikeLeast01:11,pflP01LikeBest02:30,pflP01LikeLeast02:2}
+{part2SavedData}{,A,SA,N,D,SA,SA,SA,D,SA,A,A,SA,A,SA,A}
+{part2StratCodes}{,,pflAbs,,,pflAbs,pflCmplxCont,pflCmplxThink,pflCmplxCont,pflCmplxThink,pflOrg,pflCmplxCont,pflCmplxThink,pflOrg,,pflExt,pflRLT,pflSelfSel,pflCmplxThink,pflCmplxEnv,pflFlex,pflLC,pflInqBas,,,pflCmplxCont,pflCmplxThink,pflCmplxEnv,pflRLT,pflExt,pflInqBas,,pflSelfSel,pflInqBas,pflFlex,pflLC,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:40,pflP02LikeLeast01:42,pflP02LikeBest02:43,pflP02LikeLeast02:41}
+{part3SavedData}{,A,SA,A,SA,SA,A,SA,N,D,SA,A,SD,A,N,SA,N,SD,N,D,N,SA,A,A,N,SA}
+{part3StratCodes}{,,pflCmplxThink,pflCmplxCont,,pflCmplxThink,pflVarPr,pflInd,pflVarProc,pflEM,pflCmplxThink,pflCmplxEnv,,pflIndvPur,pflInqBas,pflCmplxThink,pflInd,pflCmplxEnv,,,pflInqBas,pflOE,,,,,pflPac,,,,,,pflRfl,pflGrpInt,,,,pflVarProc,pflCmplxEnv,pflFlex}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:55,pflP03LikeLeast01:65,pflP03LikeBest02:60,pflP03LikeLeast02:70}
+{part4SavedData}{,N,SA,A,A,D,D,N,A,SA,A,A,SA,SA,SA,D,SD,SA,A,SA,N,A,N,SA}
+{part4StratCodes}{,,pflAA,pflCmplxEnv,pflOpn,pflHM,,,,,,,pflFB,,,pflFB,pflOpn,pflFB,pflEM,pflFB,pflEM,,,pflFB,,flSeflProd,,,,prlVarProd,pflCmplxEnv,pflFlex,pflLC}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:87,pflP04LikeLeast01:84,pflP04LikeBest02:90,pflP04LikeLeast02:94}
+{part0SavedData}{#pflName:Eli##pflDate:2005-07-18##pflAge:111##pflGrade:6##FavSubj:(cbpflIntroMath-true-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],astronomy,calculus,change,design,engineering,freedom,inventions,meteorology,peace,philosophy,psychology,robotics,space travel and technology,technology,the universe,time,YC_1_whattolearn#(Advanced Coding, Understanding Mathematical Symbols (∑), Evolution),YC_2_whattolearn#(Why are humans brains wired to deny difference? Can we change it?)[END:whattolearn][START:waystolearn],analyze,assess,calculate,change,collect,conclude,construct,create,define,design,develop,elaborate,evaluate,explain,formulate,imagine,improve,integrate,interpret,invent,produce,propose,solve,strengthen,summarize,synthesize,test,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,app,book,campaign,commercial,computer graphic,computer program,debate,demonstration,equation,essay,experiment,fact file,flow chart,flyer,geometric model,graph,invention,investigation,journal,lesson,narrative,news report,newspaper,newspaper article,novel,pamphlet,podcast,poster,slide show,speech,spreadsheet,table,timeline,webpage,website,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

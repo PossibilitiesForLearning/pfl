@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,N,SD,SA,D,SD,SA,D,A,N,D,SA,SA,D,N,D,N,SA,N,SA,N,SA,N,A,SA,SA,SA,A,D,D,N,A,SA,SA,SA,SD,SD,SD}
+{part1StratCodes}{,,,,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,,,,pflAcc,pflAcc,pflRfl,,,,,pflFlex,,pflFlex,,pflHM,pflFlex,,,pflInd,pflFlex,pflPac,pflInd,pflLC,pflLC,pflInd,pflFlex,pflPac,pflIndvPur,pflExtcur,pflRLT,,,,,,pflGrpInt,pflGrpInt,pflGrpInt,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:20,pflP01LikeLeast01:36,pflP01LikeBest02:34,pflP01LikeLeast02:38}
+{part2SavedData}{,SA,D,SA,A,A,N,N,N,A,A,N,SA,N,N,N}
+{part2StratCodes}{,pflAbs,,pflAbs,,,,,,,,,pflCmplxCont,pflCmplxThink,pflCmplxEnv,pflRLT,pflExt,pflInqBas,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:41,pflP02LikeLeast01:40,pflP02LikeBest02:39,pflP02LikeLeast02:49}
+{part3SavedData}{,A,N,SD,N,D,N,N,N,D,D,A,N,N,N,N,SA,D,SD,SD,A,N,A,N,N,N}
+{part3StratCodes}{,,,,,,,,,,,,,,,,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:69,pflP03LikeLeast01:56,pflP03LikeBest02:64,pflP03LikeLeast02:71}
+{part4SavedData}{,D,D,A,D,SD,SD,A,SA,SD,SD,SA,D,SD,SD,N,N,A,N,SA,SA,A,A,SA}
+{part4StratCodes}{,,,,,,,,pflFB,,,pflFB,pflInd,,,,,,,,flSeflProd,flSeflProd,pflFlex,pflInd,pflLC,,,prlVarProd,pflCmplxEnv,pflFlex,pflLC}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:98,pflP04LikeLeast01:87,pflP04LikeBest02:101,pflP04LikeLeast02:84}
+{part0SavedData}{#pflName:Grace##pflDate:2003-03-10##pflAge:14##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-true)##inptPFLSubjFavOther:Music#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],architecture,art,beauty,comedy,cultures,design,drama and acting,dreams,foreign languages,languages,law,literature,medicine,music,mythology,psychology,religion,sculpture,supernatural events,the universe,theater and acting,YC_1_whattolearn#(),YC_2_whattolearn#(If there is nothing infinite, and there is a stop to everything, where does the universe stop? Nothing can go on forever, but at the end of everything, on the very outskirts of matter, there can\\\\\\\'t just be nothing. But there can\\\\\\\'t be something either. So what is there? Is this all there is? Are we just insignificant cells? Where does it end? Where does it stop? Does it stop? What\\\\\\\'s out there? What is the purpose of life? Why are we here? There has to be an end, but what\\\\\\\'s beyond that? Are we actually in control of anything we do? Is life a lie? Is this some Matrix-like reality that we\\\\\\\'ve just concocted in our minds to hide the truth from ourselves? What are dreams? What is real? Where does imagination stop and life begin? Is there some higher power? Energy can\\\\\\\'t be destroyed, so where does ours go when we die? Do deaf people think in sign language? )[END:whattolearn][START:waystolearn],award,compose,contrast,create,design,diagram,elaborate,imagine,investigate,organize,paint,recite,sort,YC_1_waystolearn#()[END:waystolearn][START:showlearn],banner,blueprint,book review,brochure,celebration,collage,diagram,diary,drawing,essay,exhibit,journal,mask,multimedia presentation,painting,pamphlet,party,photo album,pop-up book,portfolio,poster,presentation,quilt,recipe,scrapbook,sign,sketch,skit,song,summary,wall hanging,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

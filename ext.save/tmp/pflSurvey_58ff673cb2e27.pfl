@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,D,N,SA,N,N,SA,N,SA,D,N,A,A,N,N,N,N,D,N,A,A,SA,A,D,A,D,A,N,N,N,N,A,A,A,A,D,D,D}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,pflVarGrp,,,,,,,,,,,,,pflHM,pflFlex,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:1,pflP01LikeLeast01:2,pflP01LikeBest02:22,pflP01LikeLeast02:10}
+{part2SavedData}{,A,A,N,A,A,A,A,N,N,N,N,N,SA,A,N}
+{part2StratCodes}{,,,,,,,,,,,,,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:51,pflP02LikeLeast01:46,pflP02LikeBest02:52,pflP02LikeLeast02:48}
+{part3SavedData}{,A,N,N,N,N,N,N,D,D,A,A,SD,N,A,N,A,N,N,D,D,N,N,A,A,A}
+{part3StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:64,pflP03LikeLeast01:65,pflP03LikeBest02:77,pflP03LikeLeast02:72}
+{part4SavedData}{,N,N,D,D,D,N,A,A,D,A,N,A,D,,N,A,D,A,D,A,SD,SD,A}
+{part4StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:85,pflP04LikeLeast01:99,pflP04LikeBest02:96,pflP04LikeLeast02:100}
+{part0SavedData}{#pflName:Rand Smith##pflDate:2017-04-25##pflAge:14##pflGrade:08##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-true)##inptPFLSubjFavOther:P.E.#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],cars,comedy,inventions,inventors,mythology,sports,technology,the future,TV,UFOs,YC_1_whattolearn#(Video Games),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],adapt,compare,compile,compose,contrast,create,design,diagram,illustrate,interpret,invent,justify,modify,produce,solve,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,cartoon,comic strip,debate,demonstration,display,drawing,experiment,game,graphic,illustrated story,illustration,invention,model,oral report,presentation,sketch,video game,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

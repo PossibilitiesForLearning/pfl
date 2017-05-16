@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,A,D,SA,A,SD,SA,A,SA,A,D,SA,SA,A,N,A,D,SD,N,SA,D,D,N,N,N,SA,D,N,SD,SD,N,SA,A,SA,SA,SD,SD,SD}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,pflVarGrp,,,pflAcc,pflAcc,pflRfl,,,,,,,pflFlex,,,,,,pflInd,pflLC,,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,,pflGrpInt,pflGrpInt,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:4,pflP01LikeLeast01:18,pflP01LikeBest02:35,pflP01LikeLeast02:38}
+{part2SavedData}{,A,N,N,D,N,N,D,N,,N,D,SD,A,N,D}
+{part2StratCodes}{,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:39,pflP02LikeLeast01:45,pflP02LikeBest02:51,pflP02LikeLeast02:53}
+{part3SavedData}{,D,N,N,D,D,A,SA,N,N,D,SD,A,A,N,D,N,D,D,N,N,N,N,N,A,N}
+{part3StratCodes}{,,,,,,,pflIndvPur,pflInqBas,pflCmplxThink,pflInd,pflCmplxEnv,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:59,pflP03LikeLeast01:54,pflP03LikeBest02:60,pflP03LikeLeast02:64}
+{part4SavedData}{,N,D,N,N,N,SA,N,N,N,A,A,N,D,SD,N,D,SD,A,N,SA,A,SD,SD}
+{part4StratCodes}{,,,,,,pflAA,,,,,,,,,,,,,,flSeflProd,pflFlex,pflInd,pflLC,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:84,pflP04LikeLeast01:101,pflP04LikeBest02:98,pflP04LikeLeast02:100}
+{part0SavedData}{#pflName:Tishe Omolade ##pflDate:2017-04-25##pflAge:14##pflGrade:8 ##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-true-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,astronomy,comedy,cultures,dancing,history,law,money,psychology,religion,technology,YC_1_whattolearn#(Nothing ),YC_2_whattolearn#(Is it better for there to be too many or too little laws in a country? )[END:whattolearn][START:waystolearn],analyze,argue,classify,collect,compare,critique,evaluate,group,modify,verify,YC_1_waystolearn#(Lectures )[END:waystolearn][START:showlearn],collage,demonstration,essay,flow chart,graph,mock trial,oral report,pamphlet,poster,spreadsheet,summary,textbook,YC_1_showlearn#(None)[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

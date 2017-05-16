@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,N,D,A,N,A,A,A,SA,A,D,A,SA,N,D,A,N,A,A,SA,N,SA,N,D,A,N,A,A,N,A,A,SA,N,D,SA,D,N,N}
+{part1StratCodes}{,,,,,,,,,pflVarGrp,,,,pflAcc,pflRfl,,,,,,,pflFlex,,pflHM,pflFlex,,,,,,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,,,pflGrpInt,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:9,pflP01LikeLeast01:24,pflP01LikeBest02:22,pflP01LikeLeast02:36}
+{part2SavedData}{,SA,A,SD,N,A,A,N,SA,N,A,D,N,A,N,D}
+{part2StratCodes}{,pflAbs,,,,,,,pflExtcur, pflRLT,pflOrg,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:39,pflP02LikeLeast01:41,pflP02LikeBest02:46,pflP02LikeLeast02:49}
+{part3SavedData}{,D,N,D,N,D,A,A,SA,N,N,A,SA,SD,N,A,SA,N,D,A,A,D,N,A,A,A}
+{part3StratCodes}{,,,,,,,,pflInqBas,pflCmplxThink,,,,pflPac,,,,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:61,pflP03LikeLeast01:66,pflP03LikeBest02:69,pflP03LikeLeast02:56}
+{part4SavedData}{,SD,A,N,D,N,A,SA,SA,N,A,A,N,N,SD,D,N,N,A,D,A,A,D,N}
+{part4StratCodes}{,,,,,,,pflAA,pflSelfProd,pflInd,pflFB,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:85,pflP04LikeLeast01:79,pflP04LikeBest02:86,pflP04LikeLeast02:92}
+{part0SavedData}{#pflName:kathryn beylerian ##pflDate:2003-08-11##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-true-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,architecture,beauty,chaos,comedy,courage,cultures,design,dreams,endangered species,freedom,geometry,ghosts,mythology,oceans,peace,supernatural events,time,travel,YC_1_whattolearn#(magic, mythical studies,),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],argue,assess,calculate,change,choose,collect,compare,count,create,debate,defend,design,determine,distinguish,estimate,explain,illustrate,imagine,judge,modify,organize,paint,rank,separate,simplify,summarize,test,verify,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,advertisement,autobiography,banner,chart,club,collage,conference presentation,debate,diagram,display,drawing,essay,game,graph,graphic organizer,handbook,illusion,illustration,instructions,internet search,invention,lesson,magazine,mask,menu,model,motto,painting,pie chart,plan,pop-up book,poster,presentation,recipe,scrapbook,sketch,slide show,spreadsheet,survey,textbook,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

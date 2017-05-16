@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,A,N,N,N,N,N,N,SA,A,D,SA,SA,A,A,A,A,A,A,SA,A,SA,A,N,N,N,A,N,A,A,N,SA,A,A,SA,SD,D,N}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,,,,,,,,pflVarGrp,,,pflAcc,pflAcc,pflRfl,,,,,,,pflFlex,,pflHM,pflFlex,,,,,,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,,,pflGrpInt,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:12,pflP01LikeLeast01:36,pflP01LikeBest02:20,pflP01LikeLeast02:37}
+{part2SavedData}{,SA,D,SA,N,N,A,A,A,A,A,A,SA,SA,A,A}
+{part2StratCodes}{,pflAbs,,pflAbs,,,,,,,,,pflCmplxCont,pflCmplxThink,pflCmplxEnv,pflRLT,pflExt,pflInqBas,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:41,pflP02LikeLeast01:42,pflP02LikeBest02:51,pflP02LikeLeast02:43}
+{part3SavedData}{,SA,A,D,SA,N,N,SA,A,N,SA,A,SA,A,N,SA,SA,A,SD,A,SA,A,A,A,A,A}
+{part3StratCodes}{,pflCmplxThink,,,pflCmplxThink,pflVarPr,pflInd,pflVarProc,,,pflIndvPur,pflInqBas,pflCmplxThink,pflInd,pflCmplxEnv,,,pflInqBas,pflOE,,pflPac,,,pflPac,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,pflRfl,pflGrpInt,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:60,pflP03LikeLeast01:67,pflP03LikeBest02:63,pflP03LikeLeast02:71}
+{part4SavedData}{,A,SA,A,A,N,A,N,SA,N,N,A,A,A,N,N,N,A,D,A,SA,D,N,A}
+{part4StratCodes}{,,pflAA,pflCmplxEnv,pflOpn,pflHM,,,,,,pflFB,,,,,,,,,,,,flSeflProd,pflFlex,pflInd,pflLC,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:86,pflP04LikeLeast01:99,pflP04LikeBest02:98,pflP04LikeLeast02:96}
+{part0SavedData}{#pflName:Harman Dhaliwal##pflDate:2017-04-25##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-true-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,cars,drama and acting,endangered species,ghosts,history,music,war,YC_1_whattolearn#(),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],analyze,assess,choose,describe,explain,summarize,YC_1_waystolearn#()[END:waystolearn][START:showlearn],brochure,conference presentation,flyer,poster,scrapbook,video game,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

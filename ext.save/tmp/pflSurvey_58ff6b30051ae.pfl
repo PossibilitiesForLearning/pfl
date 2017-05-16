@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,N,A,D,SA,A,D,SA,A,N,A,D,SA,SA,A,A,N,A,SA,A,SA,A,A,N,A,A,A,A,A,A,SA,A,N,N,SA,A,N,N,N}
+{part1StratCodes}{,,,,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,,,,pflAcc,pflAcc,pflRfl,,,,,pflFlex,,pflFlex,,,,,,,,,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflHM,,,,pflGrpInt,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:18,pflP01LikeLeast01:3,pflP01LikeBest02:33,pflP01LikeLeast02:6}
+{part2SavedData}{,SA,N,A,A,A,A,SA,A,A,SA,SA,SA,SA,N,N}
+{part2StratCodes}{,pflAbs,,,,,,pflCmplxCont,pflCmplxThink,pflOrg,,,pflLL,pflLL,pflCmplxCont,pflCmplxThink,pflCmplxEnv,pflRLT,pflExt,pflInqBas,pflExt, pflRLT,pflSelfSel,pflInqBas,pflCmplxEnv,pflFlex,pflLC,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:39,pflP02LikeLeast01:40,pflP02LikeBest02:45,pflP02LikeLeast02:52}
+{part3SavedData}{,A,SA,N,A,N,A,N,N,N,A,N,D,A,N,SA,SA,D,A,SD,A,SA,A,SA,SA,A}
+{part3StratCodes}{,,pflCmplxThink,pflCmplxCont,,,,,,,,,,,,,pflPac,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,,,,pflRfl,pflGrpInt,,pflRfl,pflPac,pflSelfProc,pflInd,pflFlex,pflLC,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:68,pflP03LikeLeast01:72,pflP03LikeBest02:74,pflP03LikeLeast02:70}
+{part4SavedData}{,A,SA,N,A,SA,SA,SA,SA,D,D,A,SA,SA,SA,N,A,SA,SA,A,A,N,A,N}
+{part4StratCodes}{,,pflAA,pflCmplxEnv,pflOpn,pflHM,,,pflAA,pflOpn,pflHM,pflCmplxEnv,pflAA,pflAA,pflSelfProd,pflInd,pflFB,,,,pflFB,pflOpn,pflFB,pflEM,pflFB,pflEM,,,pflFB,pflFB,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:80,pflP04LikeLeast01:87,pflP04LikeBest02:92,pflP04LikeLeast02:88}
+{part0SavedData}{#pflName:Dhanae##pflDate:2003-02-01##pflAge:14##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-true-Reading)(cbpflIntroWrite-true-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],animals,architecture,art,astronomy,beauty,brains,building,business,change,chaos,chaos theory,chemistry,comedy,communication,conflict,courage,cultures,dancing,dinosaurs,drama and acting,dreams,environment,ethics,force,foreign countries,freedom,geology,government,history,human body,insects,justice,languages,law,literature,medicine,meteorology,money,music,mythology,natural catastrophes,oceans,patterns,peace,philosophy,physics,poetry,politics,power,psychology,religion,science fiction,sculpture,sources of energy,sports,structures,systems,technology,the future,the universe,theater and acting,time,travel,values,war,YC_1_whattolearn#(stock market, ancient civilizations, Trump, card games, agriculture, resources, marketing, about heaven),YC_2_whattolearn#(How can Canada sustain itself, why don\'t penguins fly, what is a super computer? How do super computers work? How do we know they work? Why is technology so addictive? Why do people react the way they do? How can I make a good first impression? How can I learn martial arts? What would happen if I could travel to another world or live in a story? What will I do once I grow up? Why are so many politicians corrupt?)[END:whattolearn][START:waystolearn],adapt,analyze,appraise,arbitrate,argue,arrange,assess,award,blend,change,choose,classify,combine,compare,compile,compose,conclude,construct,contrast,create,critique,debate,decide,deconstruct,defend,define,demonstrate,describe,design,determine,develop,diagram,differentiate,discuss,disprove,dispute,dissect,distinguish,elaborate,evaluate,explain,form,grade,hypothesize,illustrate,imagine,improve,integrate,interpret,investigate,judge,justify,mediate,modify,outline,paint,plan,predict,prepare,prioritize,produce,propose,rank,rate,recite,recommend,relate,rewrite,separate,simplify,solve,strengthen,summarize,synthesize,verify,YC_1_waystolearn#(read it, hear it, talk about it, hear from experts)[END:waystolearn][START:showlearn],advertisement,article for magazine,autobiography,banner,biography,blog,blueprint,book,book review,brochure,business plan,campaign,chapter,chart,collection,comic strip,commentary,commercial,conference presentation,debate,demonstration,diagram,dialogue,diary,dictionary,display,documentary,drawing,editorial,essay,evaluation checklist,exhibit,experiment,fact file,fairy tale,film or filmstrip,floor plan,flow chart,flyer,game show,graph,graphic,group presentation,guide,handbook,illusion,illustrated story,illustration,instructions,internet search,interview,itinerary,journal,learning center,lecture,lesson,letter,log,logo,magazine article,manual,matrix,metaphor,mobile,mock trial,monologue,monument,multimedia presentation,mural,music,narrative,newsletter,newspaper article,novel,oral report,outline,painting,pamphlet,panel discussion,performance,personal experience,plan,play,poem,political cartoon,portfolio,prediction,presentation,program,puppet show,puzzle,reenactment,research report,review,role play,samples,scenario,science fiction story,script,self-portrait,seminar,sermon,service project,short story,simulation,sketch,skit,slide show,speech,spreadsheet,story,summary,tape-recording,theory,trademark,video game,webpage,website,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

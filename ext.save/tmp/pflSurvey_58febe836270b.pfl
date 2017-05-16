@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,N,N,N,N,D,D,A,N,N,N,N,N,N,N,N,D,A,A,N,N,A,N,N,D,SA,A,A,A,N,D,A,D,A,D,A,D,D,D}
+{part1StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,,,pflInd,pflFlex,pflPac,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:33,pflP01LikeLeast01:34,pflP01LikeBest02:31,pflP01LikeLeast02:24}
+{part2SavedData}{,A,D,D,A,A,A,N,A,A,A,D,A,N,N,N}
+{part2StratCodes}{,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:46,pflP02LikeLeast01:49,pflP02LikeBest02:48,pflP02LikeLeast02:40}
+{part3SavedData}{,D,D,D,D,D,A,D,D,D,A,N,D,D,D,A,N,D,D,D,D,D,D,A,D,A}
+{part3StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:63,pflP03LikeLeast01:71,pflP03LikeBest02:76,pflP03LikeLeast02:72}
+{part4SavedData}{,D,D,D,D,D,D,D,A,D,D,A,N,D,D,D,D,D,D,D,N,N,D,D}
+{part4StratCodes}{,,,,,,,,,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:89,pflP04LikeLeast01:97,pflP04LikeBest02:86,pflP04LikeLeast02:87}
+{part0SavedData}{#pflName:Ayesha##pflDate:2003-12-15##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-true-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-false-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],law,mythology,politics,psychology,war,YC_1_whattolearn#(),YC_2_whattolearn#()[END:whattolearn][START:showlearn],bibliography,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]

@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,SA,SA,SA,SA,SA,SD,SA,SA,SA,SA,SA,SA,SA,SA,SA,A,SA,SA,SA,A,SA,A,A,SA,SA,SA,A,SA,SA,SA,A,SA,SA,SA,SA,A,A,SD}
+{part1StratCodes}{,pflVarGrp,pflGrpInt,pflVarGrp,pflGrpInt,pflVarGrp,pflGrpInt,pflVarGrp,pflGrpInt,pflVarGrp,pflGrpInt,,pflVarGrp,pflGrpInt,pflVarGrp,pflGrpInt,pflVarGrp,pflVarGrp,pflVarGrp,pflGrpInt,pflAcc,pflAcc,pflRfl,pflAcc,pflInd,pflCmplxEnv,pflCmplxCont,pflCmplxThink,,pflFlex,pflFlex,pflFlex,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflHM,pflFlex,pflOpn,,,pflInd,pflVarGrp,pflIndvPur,pflInd,pflFlex,pflPac,pflInd,pflLC,,pflLC,pflInd,pflFlex,pflOpn,pflOpn,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflHM,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflInd,pflGrpInt,pflGrpInt,pflGrpInt,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:28,pflP01LikeLeast01:38,pflP01LikeBest02:21,pflP01LikeLeast02:36}
+{part2SavedData}{,,,,,,,,,,,,,,,}
+{part2StratCodes}{,,,,,,,,,,,,,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:,pflP02LikeLeast01:,pflP02LikeBest02:,pflP02LikeLeast02:}
+{part3SavedData}{}
+{part3StratCodes}{}
+{pflSurveyLikesDislikesPart3}{}
+{part4SavedData}{}
+{part4StratCodes}{}
+{pflSurveyLikesDislikesPart4}{}
+{part0SavedData}{#pflName:##pflDate:##pflAge:##pflGrade:##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-false-Science)(cbpflIntroSS-true-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{0}
+{p3stat}{0}
+{p4stat}{0}
+{p5stat}{0}
+{lastViewedPart}{}
+[pflSurvey_end]

@@ -1,0 +1,26 @@
+[pflSurvey_start]
+
+{part1SavedData}{,A,N,SD,SA,D,SD,SA,D,A,A,SD,SA,SA,A,SA,A,SA,SA,A,SA,SA,SA,A,SA,SA,D,A,SA,SA,SA,N,,A,SA,SA,SD,D,SD}
+{part1StratCodes}{,,,,pflVarGrp,pflGrpInt,,,pflVarGrp,pflGrpInt,,,,,pflAcc,pflAcc,pflRfl,,pflCmplxEnv,pflCmplxCont,pflCmplxThink,,pflFlex,pflFlex,,pflFlex,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflHM,pflFlex,pflOpn,pflHM,pflFlex,,pflInd,pflVarGrp,pflIndvPur,pflInd,pflFlex,pflPac,,,pflLC,pflInd,pflFlex,pflOpn,pflOpn,pflCmplxEnv,pflCmplxCont,pflCmplxThink,pflOpn,pflHM,,,,pflGrpInt,pflGrpInt,,,}
+{pflSurveyLikesDislikesPart1}{,,pflP01LikeBest01:24,pflP01LikeLeast01:36,pflP01LikeBest02:34,pflP01LikeLeast02:26}
+{part2SavedData}{,A,A,A,A,A,SA,SA,SA,SA,SA,SA,SA,A,A,N}
+{part2StratCodes}{,,,,,,pflCmplxCont,pflCmplxThink,pflOrg,pflCmplxCont,pflCmplxThink,pflOrg,pflExtcur, pflRLT,pflOrg,pflExt,pflRLT,pflSelfSel,pflCmplxThink,pflCmplxEnv,pflFlex,pflLC,pflInqBas,pflLL,pflLL,pflCmplxCont,pflCmplxThink,pflCmplxEnv,pflRLT,pflExt,pflInqBas,,,}
+{pflSurveyLikesDislikesPart2}{,,pflP02LikeBest01:51,pflP02LikeLeast01:53,pflP02LikeBest02:46,pflP02LikeLeast02:52}
+{part3SavedData}{,SA,SA,SA,A,N,A,A,A,N,SA,A,N,SA,A,A,SA,N,SA,SA,SA,SA,D,SA,N,SA}
+{part3StratCodes}{,pflCmplxThink,pflCmplxThink,pflCmplxCont,pflCmplxThink,pflAbsCont,,,,,,,pflInqBas,pflOE,,,pflPac,,,pflIndvPur,pflPac,pflInd,pflCmplxEnv,,pflPac,pflPac,pflRfl,pflGrpInt,pflRfl,pflGrpInt,,pflRfl,pflPac,,pflVarProc,pflCmplxEnv,pflFlex}
+{pflSurveyLikesDislikesPart3}{,,pflP03LikeBest01:55,pflP03LikeLeast01:70,pflP03LikeBest02:56,pflP03LikeLeast02:75}
+{part4SavedData}{,SA,A,SA,SA,SA,SA,A,SA,N,SD,SA,SA,N,A,SD,SA,SA,N,SA,SA,D,N,SA}
+{part4StratCodes}{,pflAA,,pflAA,pflOpn,pflHM,pflGrpInt,pflAA,pflOpn,pflHM,pflGrpInt,pflCmplxEnv,pflAA,pflOpn,pflHM,pflCmplxEnv,pflAA,,pflFB,,,pflFB,pflInd,pflFB,pflOpn,,,,pflFB,pflCmplxEnv,pflFlex,pflOpn,pflLC,pflFB,,flSeflProd,flSeflProd,pflFlex,pflInd,pflLC,,,prlVarProd,pflCmplxEnv,pflFlex,pflLC}
+{pflSurveyLikesDislikesPart4}{,,pflP04LikeBest01:97,pflP04LikeLeast01:99,pflP04LikeBest02:84,pflP04LikeLeast02:93}
+{part0SavedData}{#pflName:Nicholas ##pflDate:2017-04-25##pflAge:13##pflGrade:8##FavSubj:(cbpflIntroMath-false-Math)(cbpflIntroRead-false-Reading)(cbpflIntroWrite-false-Writing)(cbpflIntroScience-true-Science)(cbpflIntroSS-true-Social Studies)(cbpflIntroOth-false)##inptPFLSubjFavOther:#}
+{part5SavedData}{[START:null],on,on,on,on,on,on[START:whattolearn],architecture,building,business,cars,change,chaos,chemistry,comedy,communication,conflict,courage,cultures,design,engineering,environment,ethics,force,foreign countries,freedom,geometry,history,human body,justice,law,money,music,patterns,politics,power,psychology,sports,structures,travel,values,war,YC_1_whattolearn#(The stock market),YC_2_whattolearn#()[END:whattolearn][START:waystolearn],adapt,analyze,argue,arrange,assess,award,change,choose,classify,combine,compare,compile,contrast,count,create,debate,deconstruct,define,demonstrate,describe,design,develop,diagram,discuss,disprove,dissect,elaborate,estimate,evaluate,explain,formulate,grade,group,imagine,interpret,investigate,judge,justify,modify,organize,plan,predict,prepare,produce,propose,rank,recite,simplify,solve,test,verify,YC_1_waystolearn#()[END:waystolearn][START:showlearn],3-D model,amusement park ride,app,banner,biography,blog,broadcast,brochure,business plan,cartoon,carving,chart,comic strip,commentary,conference presentation,critical analysis,debate,demonstration,diagram,dialogue,display,documentary,essay,evaluation checklist,event,exhibit,experiment,floor plan,game,geometric model,graph,graphic,graphic organizer,group presentation,handbook,illusion,instructions,internet search,interview,invention,investigation,jingle,joke,lesson,logic puzzle,logo,machine,mask,menu,model,motto,multimedia presentation,museum,music,narrative,news report,oral report,panel discussion,party,performance,personal experience,photo album,photo essay,play,political cartoon,prediction,presentation,puzzle,questionnaire,rap,reenactment,scenario,seminar,simulation,sketch,summary,survey,tape-recording,textbook,timeline,trademark,TV show,Venn diagram,video game,website,YC_1_showlearn#()[END:showlearn]}
+{summarySavedData}{}
+{dreamSavedData}{}
+{p0stat}{1}
+{p1stat}{1}
+{p2stat}{1}
+{p3stat}{1}
+{p4stat}{1}
+{p5stat}{1}
+{lastViewedPart}{}
+[pflSurvey_end]
